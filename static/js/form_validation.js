@@ -1,7 +1,7 @@
 $(function(){
 
 	let validator_flag = [false,false,false];
-	console.log("shivam sharma"); 
+	console.log("*****"); 
 	function get_form_fields(){
 		let $username = $('#id_username');
 		let $pass1 = $('#id_password1');
